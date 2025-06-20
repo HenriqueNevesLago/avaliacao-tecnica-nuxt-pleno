@@ -1,6 +1,3 @@
 <template>
-  <q-btn label="Clique aqui" color="primary" />
-  <q-chip color="primary" text-color="white" icon="event">
-        Add to calendar
-      </q-chip>
+   <q-btn class="q-mt-md flex" href="https://github.com/Henrique020802/project-nuxt-robson" target="_blank" label="Acesse o repositório no Git" color="primary" />
 </template>
