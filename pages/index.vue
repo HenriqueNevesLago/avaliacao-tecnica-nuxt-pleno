@@ -26,11 +26,4 @@
 
 <script setup lang="ts">
 import QBtnTeste from '~/components/QBtnTeste.vue';
-const requisitos = [
-  { label: 'Página com listagem de produtos', icon: 'shopping_cart' },
-  { label: 'Página de detalhes do produto', icon: 'search' },
-  { label: 'Carrinho com adicionar/remover/quantidade', icon: 'add_shopping_cart' },
-  { label: 'Totalizador no carrinho', icon: 'attach_money' },
-  { label: 'Design responsivo', icon: 'devices' }
-]
 </script>
