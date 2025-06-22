@@ -78,11 +78,11 @@ Crie um formulário dividido em etapas, com validação e um resumo final dos da
 
 - [Vue 3](https://vuejs.org/) + Composition API  
 - [Nuxt 3](https://nuxt.com/)  
-- [TypeScript](https://www.typescriptlang.org/)  
+- [TypeScript](https://www.typescriptlang.org/)
+- Quasar
 - Pinia (opcional)  
 - Consumo de API ou dados mockados  
 - Componentes reutilizáveis e código organizado  
-- Quasar ou Tailwind (opcional)
 
 ---
 
