@@ -1,12 +1,14 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
+// nuxt.config.ts
 export default defineNuxtConfig({
   css: [
-    'quasar/src/css/index.sass',
-    '@quasar/extras/material-icons/material-icons.css'
+    'vuetify/styles', // Importa os estilos do Vuetify
   ],
+  build: {
+    transpile: ['vuetify'], // Transpile o Vuetify para o build SSR funcionar
+  },
   vite: {
     ssr: {
-      noExternal: ['quasar']
+      noExternal: ['vuetify'], // Evita problema com SSR no Vuetify
     }
   }
 })
