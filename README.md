@@ -93,9 +93,8 @@ Crie um formulário dividido em etapas, com validação e um resumo final dos da
 3. Desenvolva o desafio seguindo os requisitos obrigatórios.
 4. Diferenciais são bem-vindos, mas não obrigatórios.
 5. Ao finalizar, abra um **Pull Request** com:
-   - Link para visualização (caso use algum deploy como Vercel ou Netlify)
    - Pequeno resumo das decisões técnicas
-   - Print ou gif da aplicação rodando (opcional)
+   - Print da aplicação rodando (opcional)
 
 ---
 
