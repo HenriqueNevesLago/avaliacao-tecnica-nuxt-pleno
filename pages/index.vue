@@ -25,5 +25,6 @@
 </template>
 
 <script setup lang="ts">
+// Import component
 import QBtnTeste from '~/components/QBtnTeste.vue';
 </script>
