@@ -33,7 +33,7 @@ Deve ser desenvolvido com **Vue 3**, **Nuxt 3**, **TypeScript** e **Quasar (opci
 
 ---
 
-## 🛠️ Tecnologias que deverão sera utilizadas
+## 🛠️ Tecnologias que deverão ser utilizadas e já estão instaladas na máquina
 
 - [Vue 3](https://vuejs.org/) + Composition API  
 - [Nuxt 3](https://nuxt.com/)  
